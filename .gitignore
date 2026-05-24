@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Node (if you ever run npm/npx locally)
+node_modules/
+
+# Azure SWA CLI (if you ever use it locally)
+.swa/
+
+# Environment files (just good habit)
+.env
